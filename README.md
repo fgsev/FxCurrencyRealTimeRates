@@ -24,9 +24,7 @@ FXCurrencyRealTimeRates is a desktop application developed using **JavaFX** that
 
 ## Screenshots
 
-![App Screenshot](APP.png)
-
-*This is a placeholder for a screenshot of the application’s interface.*
+![App Screenshot](APP.PNG)
 
 ## Work In Progress
 
